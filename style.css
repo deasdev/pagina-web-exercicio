@@ -1,0 +1,28 @@
+body{
+    background-color: #f0f0f0;
+}
+header{
+    background-color: #0000FF;
+    color: #FFFFFF;
+}
+main{
+    background-color: #f0f0f0;
+    margin: 20PX;
+}
+h1{ 
+    color: #0000FF;
+    font-size: 24px;
+}
+p{ 
+    padding: 10px;
+    color: #333333;
+
+} 
+li{
+    margin: 5px;
+    color: #00ff00;
+}
+footer{
+    background-color: #333333;
+    text-align: center;
+}
